@@ -1,0 +1,2 @@
+# GPRS-using-AI
+We, Achin and Harekrissna worked as a team to complete the project given to us on Buried threat detection using ground penetrating radar. We applied Machine Learning techniques specifically CNN to identify the threats hidden underground by analysing the radar data. We implemented the techniques given in the research paper (Some Good Practices for Applying Convolutional Neural Networks to Buried Threat Detection in Ground Penetrating Radar, by Daniël Reichman, Leslie M. Collins, Jordan M)
